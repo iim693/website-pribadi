@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    background-color: rgb(217, 255, 0);
+}
+p{
+    color: aqua;
+}
+.teks-biru{
+    color: rgb(199, 4, 173);
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 12px; 
+}
